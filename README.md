@@ -13,6 +13,8 @@
 
 Αρχεία .txt
 
+### Run
+
 ```bash
 python create_txt_with_words.py
 ```
